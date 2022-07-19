@@ -8,3 +8,4 @@
 # python Gamji.py
 
 
+Screenshot_2022-07-19-09-58-10-69.png
