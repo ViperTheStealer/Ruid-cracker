@@ -1,2 +1,4 @@
-# Ruid-cracker
-Fb random uid cracker 
+# Free tools 💯
+# 2009 Random uid/ cracker 
+
+
